@@ -3,9 +3,9 @@ import React from "react"
 export default function Meme(){
 
   const [meme,setMeme] = React.useState({
-    topText: "One",
-    bottomText: "Two",
-    imageUrl: "https://i.imgflip.com/1bij.jpg"
+    topText: "",
+    bottomText: "",
+    imageUrl: ""
   })
 
   const [allMemes, setAllMemes] = React.useState([])
