@@ -7,7 +7,7 @@ p{
 .header{
   width: 550px;
   height: 70px;
-  background: linear-gradient(90deg,#672280 1.18%,#A626D3 100%);
+  background: radial-gradient(circle at 85.4% 50.8%, rgb(14, 72, 222) 0%, rgb(3, 22, 65) 74.2%);
   display: flex;
   align-items: center;
   padding: 20px;
@@ -32,7 +32,7 @@ p{
 .form-button{
   width: 477px;
   height:40px;
-  background: linear-gradient(90deg,#672280 1.18%,#A626D3 100%);
+  background: linear-gradient(121.7deg, rgb(41, 116, 250) 22.9%, rgb(67, 212, 255) 69%);
   color: white;
   font-family: Karla;
   border: none;
